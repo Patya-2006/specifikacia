@@ -1,0 +1,7 @@
+D:\подготовка к дэмэкзамену\zadacha1\bin\Debug\zadacha1.exe.config
+D:\подготовка к дэмэкзамену\zadacha1\bin\Debug\zadacha1.exe
+D:\подготовка к дэмэкзамену\zadacha1\bin\Debug\zadacha1.pdb
+D:\подготовка к дэмэкзамену\zadacha1\obj\Debug\zadacha1.csproj.AssemblyReference.cache
+D:\подготовка к дэмэкзамену\zadacha1\obj\Debug\zadacha1.csproj.CoreCompileInputs.cache
+D:\подготовка к дэмэкзамену\zadacha1\obj\Debug\zadacha1.exe
+D:\подготовка к дэмэкзамену\zadacha1\obj\Debug\zadacha1.pdb
